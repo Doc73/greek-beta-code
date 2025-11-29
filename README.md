@@ -105,8 +105,9 @@ They can be inserted writing a `|` **before** the corresponding character.
 Please submit a bug report to suggest glyphs to add or just to report bugs.
 
 ## Authors and acknowledgment
-Credits:
+Copyright © 2025 Domenico Cufalo <cufalo at gmail dot com>
 
+Credits:
 - [greek-polytonic](https://github.com/jhanschoo/greek-polytonic): Copyright (c) 2018-2019 Johannes Choo
 
 ## License
