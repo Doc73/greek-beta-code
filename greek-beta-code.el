@@ -178,6 +178,18 @@ lunate sigma   |c
   ("&" ?̄) ; U+0304 COMBINING MACRON
   ("'" ?̆) ; U+0306 COMBINING BREVE
   ("+" ?̈) ; U+0308 COMBINING DIAERESIS
+  
+  ;; punctuation
+  ("," ?,)  ; U+002C COMMA
+  ("." ?.)  ; U+002E FULL STOP
+  (";" ?;)  ; U+003B SEMICOLON (QUESTION MARK)
+  (":" ?·)  ; U+00B7 MIDDLE DOT
+  ("((" ?\(); U+0028 LEFT PARENTHESIS
+  ("))" ?\)); U+0029 RIGHT PARENTHESIS
+  ("[[" ?‘) ; U+2018 LEFT SINGLE QUOTATION MARK
+  ("]]" ?’) ; U+2019 RIGHT SINGLE QUOTATION MARK
+  ("{{" ?“) ; U+201C LEFT DOUBLE QUOTATION MARK
+  ("}}" ?”) ; U+201D RIGHT DOUBLE QUOTATION MARK
 
   ;; lowercase keyboard
   ("1" ?1)
@@ -217,8 +229,6 @@ lunate sigma   |c
   ("n" ?ν) ; U+03BD GREEK SMALL LETTER NU
   ("m" ?μ) ; U+03BC GREEK SMALL LETTER MU
   ("¢" ?͵) ; U+0375 GREEK LOWER NUMERAL SIGN (ARISTERI KERAIA)
-  ("," ?,)
-  ("." ?.)
   ("s " ["ς "]) ; FINAL SIGMA WITH SPACE
   ("s," ["ς,"]) ; FINAL SIGMA WITH COMMA
   ("s." ["ς."]) ; FINAL SIGMA WITH DOT
@@ -233,11 +243,7 @@ lunate sigma   |c
   ("%" ?%)
   ("^" ?^)
   ("*" ?*)
-  ("((" ?\()
-  ("))" ?\))
   ("~" ?~)
-  (";" ?;) ; U+003B SEMICOLON
-  (":" ?·) ; U+00B7 MIDDLE DOT
   ("E" ?Ε) ; U+0395 GREEK CAPITAL LETTER EPSILON
   ("R" ?Ρ) ; U+03A1 GREEK CAPITAL LETTER RHO
   ("T" ?Τ) ; U+03A4 GREEK CAPITAL LETTER TAU
@@ -662,10 +668,6 @@ lunate sigma   |c
 
   ;; Some useful punctuation on AltGr keys of US keyboards provided
   ;; behind a "|" escape
-  ("|=" ?“) ; U+201C LEFT DOUBLE QUOTATION MARK
-  ("|{" ?”) ; U+201D RIGHT DOUBLE QUOTATION MARK
-  ("|]" ?‘) ; U+2018 LEFT SINGLE QUOTATION MARK
-  ("|}" ?’) ; U+2019 RIGHT SINGLE QUOTATION MARK
   ("|\\" ?«) ; U+00AB LEFT-POINTING DOUBLE ANGLE QUOTATION MARK
   ("||" ?»)) ; U+00BB RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK
 

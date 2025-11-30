@@ -55,8 +55,12 @@ This layout provide also two additional keys:
 | colon (:)         |  \\:  |
 | keraia (ʹ)        |   #   |
 | arist. keraia (͵) |   ¢   |
-| left parenthesis  |  ((   |
-| right parenthesis |  ))   |
+| left parenthesis  |   ((  |
+| right parenthesis |   ))  |
+| left sing. quot. (‘)  |   [[  |
+| right sing. quot. (’) |   ]]  |
+| left double quot. (“) |   {{  |
+| right double quot. (”)|   }}  |
 
 ### Letters
 |character   |  capital |  small  |
