@@ -61,6 +61,8 @@ This layout provide also two additional keys:
 | right sing. quot. (’) |   ]]  |
 | left double quot. (“) |   {{  |
 | right double quot. (”)|   }}  |
+| left doubl. ang. («)  |  \|\  |
+| right doubl. ang. (») |  \|\| |
 
 ### Letters
 |character   |  capital |  small  |
