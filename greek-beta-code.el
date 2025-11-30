@@ -95,24 +95,32 @@ greek characters;
 - an \\ escape character written *before* a key produces the normal key
 of keyboard in use.
 
------------------------
-mark            key
------------------------
-iota subscript   |
-rough breath     (
-smooth breath    )
-acute            /
-grave            \\
-circumflex       =
-diaresis         +
-macron           &
-breve            '
-middle dot (·)   :
-semicolon (;)    ;
-colon (:)       \\:
-keraia (ʹ)       #
-ar. keraia (͵)   €
------------------------
+----------------------------
+mark                  key
+----------------------------
+iota subscript         |
+rough breath           (
+smooth breath          )
+acute                  /
+grave                  \\
+circumflex             =
+diaresis               +
+macron                 &
+breve                  '
+middle dot (·)         :
+semicolon (;)          ;
+colon (:)              \\:
+keraia (ʹ)             #
+ar. keraia (͵)         €
+left parenth.          ((
+right parenth          ))
+left sing. quot. (‘)   [[
+right sing. quot. (’)  ]]
+left doub. quot. (“)   {{
+right doub. quot. (”)  }}
+left doub. ang. («)    |\\
+right doub. ang. (»)   ||
+----------------------------
 
 The following are the keys for glyphs.
 
