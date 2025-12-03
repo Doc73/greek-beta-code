@@ -35,34 +35,34 @@ combinations for the plain vowels α, ι, and υ (ᾱ, ῑ, ῡ) but makes no pr
 
 This layout provide also two additional keys:
 
-- | written *before* the correspondig letter produces arcaic greek characters;
+1. **|** written *before* the correspondig letter produces arcaic greek characters;
 
-- \\ written *before* a key produces the normal key of keyboard in use.
+2. **\\** written *before* a key produces the normal key of keyboard in use.
 
 ### Combining diacritics and Punctuation
-| mark              |  key  |
-|:------------------|:-----:|
-| iota subscript    |  \|   |
-| rough breath      |   (   |
-| smooth breath     |   )   |
-| acute             |   /   |
-| circumflex        |   =   |
-| diaresis          |   +   |
-| macron            |   &   |
-| breve             |   '   |
-| middle dot (·)    |   :   |
-| question mark     |   ;   |
-| colon (:)         |  \\:  |
-| keraia (ʹ)        |   #   |
-| arist. keraia (͵) |   ¢   |
-| left parenthesis  |   ((  |
-| right parenthesis |   ))  |
-| left sing. quot. (‘)  |   [[  |
-| right sing. quot. (’) |   ]]  |
-| left double quot. (“) |   {{  |
-| right double quot. (”)|   }}  |
-| left doubl. ang. («)  |  \|\  |
-| right doubl. ang. (») |  \|\| |
+| mark                  |  key    |  keyalt |
+|:----------------------|:-------:|:-------:|
+| iota subscript        |  \|     |         |
+| rough breath          |   (     |         |
+| smooth breath         |   )     |         |
+| acute                 |   /     |         |
+| circumflex            |   =     |         |
+| diaresis              |   +     |         |
+| macron                |   &     |         |
+| breve                 |   '     |         |
+| middle dot (·)        |   :     |         |
+| question mark         |   ;     |         |
+| colon (:)             |  \\:    |         |
+| keraia (ʹ)            | AltGr+n |         |
+| arist. keraia (͵)     | AltGr+N |         |
+| left parenthesis      |   ((    |         |
+| right parenthesis     |   ))    |         |
+| left sing. quot. (‘)  |   [[    | AltGr+V |
+| right sing. quot. (’) |   ]]    | AltGr+B |
+| left double quot. (“) |   {{    | AltGr+v |
+| right double quot. (”)|   }}    | AltGr+b |
+| left doubl. ang. («)  |  \|\    | AltGr+< |
+| right doubl. ang. (») |  \|\|   | AltGr+> |
 
 ### Letters
 |character   |  capital |  small  |
@@ -94,7 +94,7 @@ This layout provide also two additional keys:
 |omega (ω)   |   W      |     w   |
 
 ### Archaic letters
-They can be inserted writing a `|` **before** the corresponding character.
+Archaic letters can be written by typing `|` **before** the corresponding letter.
 
 |character        |  capital |  small  |
 |:--------------- |:--------:|:-------:|
